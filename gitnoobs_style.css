@@ -1,3 +1,6 @@
+h1 {
+	text-align: center;
+}
 
 #connie{
 	text-align: center;
@@ -25,9 +28,14 @@
 	margin: 0 10px;
 }
 
+#hassan {
+  margin:0 auto;
+  width:75px;  
+}
 #hassan button {
   background-color: green;
   color: yellow;
-  border-color: green;  
+  text-align:center;
+  border-color: green;
 }
 
